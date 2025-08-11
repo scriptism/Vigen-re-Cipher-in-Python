@@ -11,5 +11,5 @@ A simple Python script to encrypt and decrypt messages using the Vigenère ciphe
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/scriptism/Vigen-re-Cipher-in-Python
    ```
